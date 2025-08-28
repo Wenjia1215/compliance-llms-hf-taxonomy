@@ -2,7 +2,7 @@
 This repository contains scripts, data, and artifacts for the taxonomy survey of compliance-oriented Large Language Models (LLMs) on Hugging Face. It includes reproducible search scripts, curated CSV registries, and supplementary materials for the accompanying survey paper.
 
 
-### How to run the script:
+### How to run scripts/hf_complianceLLM_Collector.py:
 <code>
   python /Users/wenjia/Downloads/hf_complianceLLM_Collector.py \
   --max-per-query 300 \
