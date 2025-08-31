@@ -23,6 +23,7 @@ This repository contains scripts, data, and artifacts for the taxonomy survey of
   --sleep 0.25 \
   --out results.csv --excluded-out excluded.csv
 </code>
+<img width="3548" height="1664" alt="image" src="https://github.com/user-attachments/assets/932b7873-7301-4ad0-9a7f-df29f294bc24" />
 
 
 <img width="2742" height="1072" alt="image" src="https://github.com/user-attachments/assets/7f2d43de-35b9-4bce-8f4c-74e58be76188" />
