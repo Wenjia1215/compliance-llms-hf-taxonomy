@@ -1,0 +1,6 @@
+metric,value
+Total candidates enumerated (pass1),465975
+Processed in pass2 (results+excluded),465975
+Kept (results),1288
+Excluded,464687
+Unprocessed (candidates - processed),0

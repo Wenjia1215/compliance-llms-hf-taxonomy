@@ -1,0 +1,9 @@
+Total models: 1288
+Core set: 245
+Framework set: 108
+Supporting set: 1097
+Judge/Eval set: 13
+
+Counts by llm_type:
+- Other/Unknown: 1275
+- Judge/Eval/Reranker: 13
