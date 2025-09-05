@@ -9,4 +9,6 @@ Open the notebook and select **"Run all"** to reproduce the experiments.
 
 All required scripts are located in the [hg_llms_collector_scripts](hg_llms_collector_scripts) folder.
 
-> Note: The [scripts](scripts) directory contains the initial version of the collector. These scripts were not used in the final workflow because the results were too broad, but they are included here for reference.
+> Note 1: The [scripts](scripts) directory contains the initial version of the collector. These scripts were not used in the final workflow because the results were too broad, but they are included here for reference.
+
+> Note 2: Please feel free to contact me: wwang048@fiu.edu if you have any questions.
