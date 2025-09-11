@@ -973,7 +973,6 @@ The model supports 29 language. It was trained with a mixture of (80% english ex
 ## Licence
 
 Apache license 2.0",strong-signal query hit,metricspace/GDPR_Input_Detection_and_Anonymization_0.5B,GDPR,FALSE,keep,,metricspace/GDPR_Input_Detection_and_Anonymization_0.5B,"(0, 0, 0)",0,2025-01-21 14:54:17+00:00,13,24265,rag,audit_report,none_or_unknown,L1,,,,metricspace/gdpr/input/detection/and/anonymization/0/5b,metricspace/gdpr/input/detection/and/anonymization/0/5b,FALSE,keep_canonical_no_instruct_available
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 mradermacher/Llama3.1-GDPR-Instruct-GGUF,mradermacher,Llama3.1-GDPR-Instruct-GGUF,,"[""transformers"", ""gguf"", ""en"", ""base_model:alvwjy/Llama3.1-GDPR-Instruct"", ""base_model:quantized:alvwjy/Llama3.1-GDPR-Instruct"", ""endpoints_compatible"", ""region:us"", ""conversational""]",26,0,2024-08-12 03:23:58+00:00,2024-08-12 03:51:55+00:00,,https://huggingface.co/mradermacher/Llama3.1-GDPR-Instruct-GGUF,GDPR,2025-09-03T14:05:28Z,"---
 base_model: alvwjy/Llama3.1-GDPR-Instruct
 language:
@@ -1225,8 +1224,6 @@ We evaluate Mathstral 7B and open-weight models of the similar size on industry-
 ## The Mistral AI Team
 
 Albert Jiang, Alexandre Sablayrolles, Alexis Tacnet, Alok Kothari, Antoine Roux, Arthur Mensch, Audrey Herblin-Stoop, Augustin Garreau, Austin Birky, Bam4d, Baptiste Bout, Baudouin de Monicault, Blanche Savary, Carole Rambaud, Caroline Feldman, Devendra Singh Chaplot, Diego de las Casas, Eleonore Arcelin, Emma Bou Hanna, Etienne Metzger, Gaspard Blanchet, Gianna Lengyel, Guillaume Bour, Guillaume Lample, Harizo Rajaona, Henri Roussez, Hichem Sattouf, Ian Mack, Jean-Malo Delignon, Jessica Chudnovsky, Justus Murke, Kartik Khandelwal, Lawrence Stewart, Louis Martin, Louis Ternon, Lucile Saulnier, Lélio Renard Lavaud, Margaret Jennings, Marie Pellat, Marie Torelli, Marie-Anne Lachaux, Marjorie Janiewicz, Mickaël Seznec, Nicolas Schuhl, Niklas Muhs, Olivier de Garrigues, Patrick von Platen, Paul Jacob, Pauline Buche, Pavan Kumar Reddy, Perry Savas, Pierre Stock, Romain Sauvestre, Sagar Vaze, Sandeep Subramanian, Saurabh Garg, Sophia Yang, Szymon Antoniak, Teven Le Scao, Thibault Schueller, Thibaut Lavril, Thomas Wang, Théophile Gervet, Timothée Lacroix, Valera Nemychnikova, Wendy Shang, William El Sayed, William Marshall",strong-signal query hit,Silin1590/Mathstral-7B-Soc-CoA-Ep2,,FALSE,keep,,Silin1590/Mathstral-7B-Soc-CoA-Ep2,"(0, 0, 0)",0,2025-04-28 09:40:01+00:00,4,5156,standard,unknown,policy_citation,L0,,,,silin1590/mathstral/7b/soc/coa/ep2,silin1590/mathstral/7b/soc/coa/ep2,FALSE,keep_canonical_no_instruct_available
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 sims2k/Saul-GDPR-v5.2-GGUF,sims2k,Saul-GDPR-v5.2-GGUF,,"[""transformers"", ""gguf"", ""GDPR"", ""Law"", ""English"", ""Data Protection"", ""en"", ""dataset:sims2k/GDPR_QA_instruct_dataset"", ""base_model:Equall/Saul-7B-Instruct-v1"", ""base_model:quantized:Equall/Saul-7B-Instruct-v1"", ""license:mit"", ""endpoints_compatible"", ""region:us"", ""conversational""]",19,3,2024-07-11 15:00:32+00:00,2024-09-11 16:19:46+00:00,,https://huggingface.co/sims2k/Saul-GDPR-v5.2-GGUF,GDPR,2025-09-03T14:05:27Z,"---
 library_name: transformers
 tags:
@@ -1341,5 +1338,3 @@ Future improvements will focus on:
 - Potentially integrating legal reasoning from other regulatory domains beyond GDPR.
 
 ",strong-signal query hit,sims2k/Saul-GDPR-v5.2,GDPR,FALSE,keep,,sims2k/Saul-GDPR,"(5, 2, 0)",7,2024-09-11 16:19:46+00:00,19,7309,standard,monitoring,none_or_unknown,L0,,,,sims2k/saul/gdpr,sims2k/saul/gdpr,TRUE,keep_instruct_canonical
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
